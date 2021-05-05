@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786088433240",
+    "project_id": "eshop-d21f0",
+    "storage_bucket": "eshop-d21f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786088433240:android:c54d606d86134c5ced9c2d",
+        "android_client_info": {
+          "package_name": "com.arslan.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786088433240-udb0vnvn4pvt35oakokeo9uo3pg10qja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxMk9IYQ_9vQx_3o2iHgjiI-QdZySud3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786088433240-udb0vnvn4pvt35oakokeo9uo3pg10qja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
